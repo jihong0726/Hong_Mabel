@@ -7,7 +7,7 @@ from telegram.ext import (
 )
 
 BOT_TOKEN = os.getenv("8573997245:AAEBaTctsWgygNdMaIfY8qbw-RNk8QaY8EQ", "")
-OWNER_ID = int(os.getenv("OWNER_ID", "0"))
+OWNER_ID = int(os.getenv("Kong_Ji_Hong", "0"))
 DATA_FILE = "data.json"
 
 USER_STATE = {}
